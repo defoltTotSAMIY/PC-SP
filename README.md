@@ -1,2 +1,2 @@
 # PC-SP
-mening proektim
+MY PROJECT
